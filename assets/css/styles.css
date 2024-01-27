@@ -516,7 +516,7 @@ a {
 /* Achievement */
 
 .achievement {
-    margin-top: 213px;
+    margin-top: 148px;
 }
 
 .achievement .achievement-list {
@@ -547,7 +547,7 @@ a {
 
 /* Connect */
 .connect {
-    margin-top: 264px;
+    margin-top: 200px;
 }
 
 .connect .connect-block {
@@ -612,6 +612,10 @@ a {
     border: none;
     border-radius: 50%;
     background: #2AC9BF;
+}
+
+.connect .arrow-block .arrow:hover {
+    cursor: pointer;
 }
 
 .connect .connect-block .media {
